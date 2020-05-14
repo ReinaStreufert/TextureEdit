@@ -1,2 +1,2 @@
-v1.18.7
-Added grid intensity & overlay opacity settings, bug fixes.
+v1.18.8
+Added a greyscale mode that you can switch to when editing black & white textures such as grass_top.
