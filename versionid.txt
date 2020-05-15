@@ -1,2 +1,2 @@
-v1.18.8
-Added a greyscale mode that you can switch to when editing black & white textures such as grass_top.
+v1.18.9
+Quick support for irregularly sized textures, we gotchu @Deku ;)
