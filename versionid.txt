@@ -1,2 +1,2 @@
-v1.18.10
-Quick support for irregularly sized textures, we gotchu @Deku ;)
+v1.19
+Fullscreen mode/resizable window and workspace! Zoom tool now works like select tool and allows for non-square regions (which is much easier)
