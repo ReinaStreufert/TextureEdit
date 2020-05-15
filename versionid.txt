@@ -1,2 +1,2 @@
-v1.18.9
+v1.18.10
 Quick support for irregularly sized textures, we gotchu @Deku ;)
