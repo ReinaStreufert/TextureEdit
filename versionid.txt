@@ -1,2 +1,2 @@
-v1.19
-Fullscreen mode/resizable window and workspace! Zoom tool now works like select tool and allows for non-square regions (which is much easier)
+v1.19.1
+Fixed the worst bug in the history of TextureEdit with 4 lines of code.
