@@ -1,2 +1,2 @@
-v1.19.1
-Fixed the worst bug in the history of TextureEdit with 4 lines of code.
+v1.19.2
+Decreased the minimum size of the window so that you can edit with two windows in split screen
