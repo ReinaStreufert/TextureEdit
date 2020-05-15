@@ -1,2 +1,2 @@
-v1.19.2
-Decreased the minimum size of the window so that you can edit with two windows in split screen
+v1.19.3
+Bug fix, fixed outdated information for zoom tool in help dialog
