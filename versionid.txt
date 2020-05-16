@@ -1,2 +1,2 @@
-v1.19.4
-New shortcut: Press R to reset zoom, other UI improvements
+v1.19.5
+Fixed a bug that I accidentally created while fixing a different bug lol
