@@ -1,2 +1,2 @@
-v1.19.5
-Fixed a bug that I accidentally created while fixing a different bug lol
+v1.19.6
+Improvements to the pen tool (if you move your mouse fast, it used to come out all splotchy, especially on higher resolutions)
