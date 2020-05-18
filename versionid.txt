@@ -1,2 +1,2 @@
-v1.19.7
-Optimization, performance could maybe be called suitable for 512x512 editing *shrug*
+v1.19.8
+oh my god it's so much faster i feel so free when i select things without a stutter
