@@ -1,2 +1,2 @@
-v1.19.6
-Improvements to the pen tool (if you move your mouse fast, it used to come out all splotchy, especially on higher resolutions)
+v1.19.7
+Optimization, performance could maybe be called suitable for 512x512 editing *shrug*
