@@ -1,2 +1,2 @@
-v1.19.9
-IT'S EVEN FASTER JEEBUS
+v1.19.20
+Fixed a bug that made the effects preview lag behind ironically created by optimizing the rest of the program. Sorry for the update spam lol
