@@ -1,2 +1,2 @@
-v1.20.1
-ok now undo & redo is ACTUALLY full. Unless i forgot something again... nahh
+v1.20.2
+Bug fixes
