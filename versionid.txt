@@ -1,2 +1,2 @@
-v1.19.21
-Pen improvements and channel mode optimizations
+v1.20
+Full undo & redo! It now works for all operations (pen, selection filling, and effects) and goes back and forth infinitely. Text boxes have been added to the right of sliders on effects.
