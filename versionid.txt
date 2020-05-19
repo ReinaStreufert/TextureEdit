@@ -1,2 +1,2 @@
-v1.20.2
-Bug fixes
+v1.20.3
+Fixed a bug where the checker-board transparency background would get stretched on non-square textures
