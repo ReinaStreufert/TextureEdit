@@ -1,2 +1,2 @@
-v1.20.4
-Fixed a bug where the workspace wouldn't refresh immediately when moving mouse quickly in channel mode, optimizations
+v1.20.5
+huuuuge optimizations for high resolutions. Try opening a 1024 or sum :)
