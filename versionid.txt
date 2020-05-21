@@ -1,2 +1,2 @@
-v1.20.5
-huuuuge optimizations for high resolutions. Try opening a 1024 or sum :)
+v1.20.6
+fixed a bug. how did i fix it? ion really kno tbh
