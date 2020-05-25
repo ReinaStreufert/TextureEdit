@@ -1,2 +1,2 @@
-v1.20.7
-Fixed a bug with Edit in Paint.net breaking while in channel modes
+v1.20.8
+Added solid background option as well as settings for that color, rescaling up to 1k, and some Edit in Paint.net improvements
