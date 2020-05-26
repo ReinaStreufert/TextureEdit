@@ -1,2 +1,2 @@
-v1.20.8
-Added solid background option as well as settings for that color, rescaling up to 1k, and some Edit in Paint.net improvements
+v1.20.9
+Added magic wand tool available up to 128
