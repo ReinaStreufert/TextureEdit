@@ -1,2 +1,2 @@
-v1.20.9
-Added magic wand tool available up to 128
+v1.20.10
+Wand tool is now wayyy faster and available up to 1024
