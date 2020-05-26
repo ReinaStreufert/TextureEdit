@@ -1,2 +1,2 @@
-v1.20.11
-Wand tool is now wayyy faster and available up to 1024: Fixed a bug and added W shortcut edition
+v1.20.12
+Effects on smart selections are now wayyy faster
