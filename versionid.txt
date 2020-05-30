@@ -1,2 +1,2 @@
-v1.20.14
-Smart selection fill is faster on high resolutions, added Ctrl+A
+v1.20.15
+Holding shift with magic wand selects all of that color in image, bug fixes with rescaling and moving window around.
