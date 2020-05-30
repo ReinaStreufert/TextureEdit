@@ -1,2 +1,2 @@
-v1.20.13
-Smart selections/wand selections now render way faster which was previously causing wand to be unusable on 1024. Wand tool now supports channel modes.
+v1.20.14
+Smart selection fill is faster on high resolutions, added Ctrl+A
