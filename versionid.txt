@@ -1,2 +1,2 @@
-v1.20.17
-Ctrl+Shift+S ignores opacity and always saves at png
+v1.20.18
+Holding shift with Ctrl+S ignores opacity and always saves as png, holding alt doesn't save mers and normals, and any combination of these
