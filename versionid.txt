@@ -1,2 +1,2 @@
-v1.20.16
-Fixed a small interpolation bug.
+v1.20.17
+Ctrl+Shift+S ignores opacity and always saves at png
