@@ -1,2 +1,2 @@
-v1.20.18
-Holding shift with Ctrl+S ignores opacity and always saves as png, holding alt doesn't save mers and normals, and any combination of these
+v1.20.19
+Fixed a bug where smart selection filling wouldn't update until you moused over the workspace
