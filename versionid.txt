@@ -1,2 +1,2 @@
-v1.20.19
-Fixed a bug where smart selection filling wouldn't update until you moused over the workspace
+v1.20.20
+Created tile view feature (in the bottom right, dm me if you wanna know more about it)
