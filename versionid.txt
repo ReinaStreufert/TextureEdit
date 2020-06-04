@@ -1,2 +1,2 @@
-v1.20.20
-Created tile view feature (in the bottom right, dm me if you wanna know more about it)
+v1.20.21
+You can now "switch out" tiles in the tile view with click and right click, useful for developing things like stone and ores
