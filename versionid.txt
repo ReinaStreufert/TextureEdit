@@ -1,2 +1,2 @@
-v1.20.21
-You can now "switch out" tiles in the tile view with click and right click, useful for developing things like stone and ores
+v1.20.22
+Drop shadows in the UI look a lil nicer
