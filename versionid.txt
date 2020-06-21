@@ -1,2 +1,2 @@
-v1.20.22
-Drop shadows in the UI look a lil nicer
+v1.20.23
+Drop shadows even nicer :) also for some reason making the drop shadows better improved performance so yay!!!!
