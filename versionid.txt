@@ -1,2 +1,2 @@
 v1.20.24
-TgaLib.dll can now be automatically download
+TgaLib.dll can now be automatically downloaded
