@@ -1,2 +1,2 @@
 v1.20.24
-Drop shadows even nicer :) also for some reason making the drop shadows better improved performance so yay!!!!
+TgaLib.dll can now be automatically download
