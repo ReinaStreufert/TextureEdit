@@ -1,2 +1,2 @@
-v1.20.26
-Minimum resolution is now 1x1
+v1.20.27
+Fixed a small shadow bug
