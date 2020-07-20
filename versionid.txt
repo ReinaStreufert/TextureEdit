@@ -1,2 +1,2 @@
-v1.20.27
-Fixed a small shadow bug
+v1.20.28
+TextureEdit now supports all external editors that register with the Windows shell (almost all editors) + closing now shows "are you sure" dialog
