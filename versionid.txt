@@ -1,2 +1,2 @@
-v1.20.29
-nothing :)
+v1.20.30
+Fixed a bug that caused TextureEdit to not start if you had no default image editor set in Explorer
